@@ -1,0 +1,58 @@
+
+> hotel-uleam-vue@1.0.0 dev
+> vite --host 127.0.0.1 --port 5173
+
+
+  [32m[1mVITE[22m v7.3.5[39m  [2mready in [0m[1m566[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m5:09:17 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/stores/hotelStore.js[22m
+[2m5:09:23 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/stores/hotelStore.js[22m
+[2m5:09:39 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/stores/hotelStore.js[22m
+[2m5:19:35 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/LoginView.vue, /src/views/RegisterView.vue, /src/views/client/ReservationSearchView.vue, /src/views/client/PaymentView.vue, /src/views/client/DetailReservationView.vue, /src/views/admin/CheckInView.vue, /src/views/admin/CheckOutView.vue, /src/views/admin/RoomsAdminView.vue[22m
+[2m5:19:42 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/RegisterView.vue[22m
+[2m5:19:46 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/RoomsAdminView.vue[22m
+[2m5:19:50 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/CheckInView.vue[22m
+[2m5:19:54 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/CheckOutView.vue[22m
+[2m5:20:02 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/LoginView.vue, /src/views/RegisterView.vue, /src/views/client/ReservationSearchView.vue, /src/views/client/PaymentView.vue, /src/views/client/DetailReservationView.vue, /src/views/admin/CheckInView.vue, /src/views/admin/CheckOutView.vue, /src/views/admin/RoomsAdminView.vue[22m
+[2m5:20:06 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/RegisterView.vue[22m
+[2m5:20:09 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/DetailReservationView.vue[22m
+[2m5:20:12 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/PaymentView.vue[22m
+[2m5:20:15 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/RoomsAdminView.vue[22m
+[2m5:20:23 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/LoginView.vue, /src/views/RegisterView.vue, /src/views/client/ReservationSearchView.vue, /src/views/client/PaymentView.vue, /src/views/client/DetailReservationView.vue, /src/views/admin/CheckInView.vue, /src/views/admin/CheckOutView.vue, /src/views/admin/RoomsAdminView.vue[22m
+[2m5:20:27 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/DetailReservationView.vue[22m
+[2m5:20:32 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/PaymentView.vue[22m
+[2m5:20:35 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/RoomsAdminView.vue[22m
+[2m5:20:39 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/CheckInView.vue[22m
+[2m5:25:32 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/LoginView.vue, /src/views/RegisterView.vue, /src/views/client/ReservationSearchView.vue, /src/views/client/PaymentView.vue, /src/views/client/DetailReservationView.vue, /src/views/admin/CheckInView.vue, /src/views/admin/CheckOutView.vue, /src/views/admin/RoomsAdminView.vue[22m
+[2m5:28:51 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/PaymentView.vue[22m
+[2m5:28:56 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/MyReservationsView.vue[22m
+[2m5:31:54 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/CheckOutView.vue[22m
+[2m5:32:00 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/assets/styles.css[22m
+[2m5:33:34 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/stores/hotelStore.js[22m
+[2m5:33:39 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/RoomsAdminView.vue[22m
+[2m5:33:45 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/RoomsAdminView.vue[22m
+[2m5:37:55 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/RegisterView.vue[22m
+[2m5:38:01 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/LoginView.vue[22m
+[2m5:38:06 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/ReservationSearchView.vue[22m
+[2m5:38:11 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/LoginView.vue, /src/views/RegisterView.vue, /src/views/client/ReservationSearchView.vue, /src/views/client/PaymentView.vue, /src/views/client/DetailReservationView.vue, /src/views/admin/CheckInView.vue, /src/views/admin/CheckOutView.vue, /src/views/admin/RoomsAdminView.vue[22m
+[2m5:43:54 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/utils/formatters.js[22m
+[2m5:44:01 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/LoginView.vue, /src/views/RegisterView.vue, /src/views/client/ReservationSearchView.vue, /src/views/client/PaymentView.vue, /src/views/client/DetailReservationView.vue, /src/views/admin/CheckInView.vue, /src/views/admin/CheckOutView.vue, /src/views/admin/RoomsAdminView.vue[22m
+[2m5:44:22 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/ReservationSearchView.vue[22m
+[2m5:44:33 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/ReservationSearchView.vue[22m
+[2m5:44:34 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/ReservationSearchView.vue[22m
+[2m5:46:26 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/stores/hotelStore.js[22m
+[2m5:46:34 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/MyReservationsView.vue[22m
+[2m5:46:41 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/assets/styles.css[22m
+[2m5:48:57 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/MyReservationsView.vue[22m
+[2m5:58:34 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/CheckOutView.vue[22m
+[2m5:58:39 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/PaymentView.vue[22m
+[2m5:59:09 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/MyReservationsView.vue[22m
+[2m5:59:11 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/client/MyReservationsView.vue[22m
+[2m5:59:17 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/assets/styles.css[22m
+[2m6:03:48 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/stores/hotelStore.js[22m
+[2m6:03:55 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/CheckOutView.vue, /src/views/client/PaymentView.vue, /src/views/client/MyReservationsView.vue[22m
+[2m6:04:01 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/admin/CheckOutView.vue[22m
+[2m6:06:25 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/stores/hotelStore.js[22m
+[2m6:06:32 p.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/stores/hotelStore.js[22m
